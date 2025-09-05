@@ -1,1 +1,2 @@
-# friyad-leetcode
+# Friyad Leetcode
+Daily Solved Problems in LeetCode
